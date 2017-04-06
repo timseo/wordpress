@@ -1,40 +1,60 @@
-The Basics…
+# Getting Started <br><br>
 
-Free CMS (Content Management System) based on PHP and MySQL
 
-Installed on a web server
+## Wordpress is...<br><br>
 
-You can use Wordpress.com (web template system) or a computer running the software package on WordPress.org (plugin architecture)
+- Free CMS (Content Management System)<br>
 
-Used by 27.5% of the top 10 million websites
+- You can use Wordpress.com (web template system) or a computer running the software package on WordPress.org (plugin architecture)<br>
 
-Wordpress is reportedly the most popular blogging system in use on the web, supporting 60 million websites
+- Plugins used to create features and functionality 49,394 currently available<br>
 
-Released in 2003
+- Used by 27.5% of the top 10 million websites<br>
 
-——
+- The most popular blogging system in use on the web, supporting 60 million websites<br>
 
-20mb download
+- Native applications exist for Mobile, however, they are limited mostly to the blogging side<br>
 
-Switch between themes without altering code
+- PHP, HTML, CSS are the base<br>
 
-PHP, HTML, CSS are the base
+- Released in 2003<br><br>
 
-Premium themes at a cost (monthly fee $2.99 - $24.92)
 
-Plugins used to create features and functionality 49,394
+## Dependencies:<br><br>
 
-Native applications exist for Mobile, however, they are limited mostly to the blogging side
+1. PHP (originally: Personal Home Page)<br>
+2. HTML<br>
+3. CSS<br><br>
 
-——
 
-Wordpress users: Sony Playstation, New York Times
+## Use:<br><br>
 
-3 Documentations: Themes, Plugins, REST API
+Why would someone use Wordpress?<br>
+Simple Themes, Plugins, API<br>
 
-Focus: Wordpress.org
+Clients?<br>
+Sony Playstation, New York Times<br><br>
 
-MAMP: My Apache - MySQL - PHP
 
-Tutorial to setup MAMP:
-https://skillcrush.com/2015/04/14/install-wordpress-mac/
+## Tutorials:<br><br>
+
+MAMP (MyApache, MySQL, PHP )<br>
+https://skillcrush.com/2015/04/14/install-wordpress-mac/<br><br>
+
+
+## Official Documentation:<br><br>
+
+https://developer.wordpress.org/<br><br>
+
+## Hurdles:<br><br>
+
+Installation of MAMP<br><br>
+
+
+## Screenshots:<br><br>
+
+## Code / Codefiles:<br><br>
+
+## Knowledge Assumed:<br><br>
+
+## Research<br><br>
