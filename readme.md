@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Brian60657/wordpress/blob/master/2000px-WordPress_logo.svg.png)  
 
-## WordPress is...
+## Is...
 
 - Free CMS (Content Management System)<br>
 
