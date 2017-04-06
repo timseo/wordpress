@@ -110,5 +110,8 @@ https://developer.wordpress.org/<br><br>
 ## Code:
 
 ## Knowledge Assumed:
+- It's not just "one click and done"<br><br>
 
 ## Research:
+- Server side after MAMP installation<br><br>
+
