@@ -1,7 +1,7 @@
-# Getting Started <br><br>
+# Getting Started
 
 
-## Wordpress is...<br><br>
+## WordPress is...
 
 - Free CMS (Content Management System)<br>
 
@@ -20,14 +20,14 @@
 - Released in 2003<br><br>
 
 
-## Dependencies:<br><br>
+## Dependencies:
 
 1. PHP (originally: Personal Home Page)<br>
 2. HTML<br>
 3. CSS<br><br>
 
 
-## Use:<br><br>
+## Use:
 
 Why would someone use Wordpress?<br>
 Simple Themes, Plugins, API<br>
@@ -36,25 +36,25 @@ Clients?<br>
 Sony Playstation, New York Times<br><br>
 
 
-## Tutorials:<br><br>
+## Tutorials:
 
 MAMP (MyApache, MySQL, PHP )<br>
 https://skillcrush.com/2015/04/14/install-wordpress-mac/<br><br>
 
 
-## Official Documentation:<br><br>
+## Official Documentation:
 
 https://developer.wordpress.org/<br><br>
 
-## Hurdles:<br><br>
+## Hurdles:
 
 Installation of MAMP<br><br>
 
 
-## Screenshots:<br><br>
+## Screenshots:
 
-## Code / Codefiles:<br><br>
+## Code / Codefiles:
 
-## Knowledge Assumed:<br><br>
+## Knowledge Assumed:
 
-## Research<br><br>
+## Research
