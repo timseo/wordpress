@@ -35,11 +35,32 @@ Clients?<br>
 Sony Playstation, New York Times<br><br>
 
 
-## Tutorials:
+## Tutorial:
 
-MAMP (MyApache, MySQL, PHP )<br>
-https://skillcrush.com/2015/04/14/install-wordpress-mac/<br><br>
+MAMP <br>
+- Stands for Macintosh, Apache, MySQL and PHP. <br>
+- Allows you to build and test WordPress sites offline, entirely on your own computer<br>
+- Gives you access to a local Apache server<br><br>
 
+Four components of MAMP:<br>
+- Macintosh: an operating system<br>
+- Apache: an open source web server<br>
+- MySQL: most widely available relational database in the world (all Wordpress sites use MySQL dbs)<br>
+- PHP: server-side scripting language<br><br>
+
+Set Up Steps<br>
+1. Install the latest version of Wordpress<br>
+2. Install MAMP on your Computer<br>
+3. LaunchMAMP from your Applications Folder<br>
+4. Set the Ports<br>
+5. Configure the Web Server and Document Root<br>
+6. Start your Servers<br>
+7. Create a MYSQL DB<br>
+8. Unzip the Wordpress Install<br>
+9. Configure the WP-Config.PHP File<br>
+10. The Famous Five Minute Install<br>
+11. Log Into the Wordpress Dashboard Panel<br>
+12. Use MAMP in the Future<br>
 
 ## Official Documentation:
 
@@ -52,7 +73,7 @@ Installation of MAMP<br><br>
 
 ## Screenshots:
 
-## Code / Codefiles:
+## Code:
 
 ## Knowledge Assumed:
 
