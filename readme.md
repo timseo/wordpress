@@ -42,7 +42,7 @@ MAMP <br>
 - Allows you to build and test WordPress sites offline, entirely on your own computer<br>
 - Gives you access to a local Apache server<br><br>
 
-Four components of MAMP:<br>
+Components of MAMP<br>
 - Macintosh: an operating system<br>
 - Apache: an open source web server<br>
 - MySQL: most widely available relational database in the world (all Wordpress sites use MySQL dbs)<br>
@@ -60,7 +60,7 @@ Set Up Steps<br>
 9. Configure the WP-Config.PHP File<br>
 10. The Famous Five Minute Install<br>
 11. Log Into the Wordpress Dashboard Panel<br>
-12. Use MAMP in the Future<br>
+12. Use MAMP in the Future<br><br>
 
 ## Official Documentation:
 
@@ -68,7 +68,7 @@ https://developer.wordpress.org/<br><br>
 
 ## Hurdles:
 
-Installation of MAMP<br><br>
+-Installation of MAMP<br><br>
 
 
 ## Screenshots:
