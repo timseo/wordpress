@@ -101,14 +101,14 @@ https://developer.wordpress.org/<br><br>
 
 -Installation of MAMP<br><br>
 
-## Plugin Tutorial:
-http://wpninjas.com/how-to-create-a-simple-wordpress-plugin/<br><br>
-
-## Code for a PLUGIN:
-![alt text](Plugin_Code.png)<br><br>
-
 ## Knowledge Assumed:
 - It's not just "one click and done"<br><br>
 
 ## Research:
 - Server side after MAMP installation<br><br>
+
+## Plugin Tutorial:
+http://wpninjas.com/how-to-create-a-simple-wordpress-plugin/<br><br>
+
+## Code for a PLUGIN:
+![alt text](Plugin_Code.png)<br><br>
