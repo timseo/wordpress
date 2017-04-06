@@ -1,6 +1,7 @@
 # Getting Started
 
 
+
 ## WordPress is...
 
 - Free CMS (Content Management System)<br>
@@ -57,4 +58,4 @@ Installation of MAMP<br><br>
 
 ## Knowledge Assumed:
 
-## Research
+## Research:
