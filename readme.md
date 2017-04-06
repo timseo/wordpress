@@ -18,13 +18,11 @@
 
 - Released in 2003<br><br>
 
-
 ## Dependencies:
 
 1. PHP (originally: Personal Home Page)<br>
 2. HTML<br>
 3. CSS<br><br>
-
 
 ## Use:
 
@@ -33,7 +31,6 @@ Simple Themes, Plugins, API<br>
 
 Clients?<br>
 Sony Playstation, New York Times<br><br>
-
 
 ## Tutorial:
 
@@ -96,7 +93,7 @@ Set Up Steps<br>
         * Configure the wp-config.php file to match new db name
         * Go through 5 min. Install
 
-## Official Documentation:
+## Wordpress Documentation:
 
 https://developer.wordpress.org/<br><br>
 
@@ -104,12 +101,11 @@ https://developer.wordpress.org/<br><br>
 
 -Installation of MAMP<br><br>
 
-
-## Screenshots:
+## Plugin Tutorial:
+http://wpninjas.com/how-to-create-a-simple-wordpress-plugin/<br><br>
 
 ## Code for a PLUGIN:
-![alt text](Plugin_Code.png)
-
+![alt text](Plugin_Code.png)<br><br>
 
 ## Knowledge Assumed:
 - It's not just "one click and done"<br><br>
