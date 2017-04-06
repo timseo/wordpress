@@ -107,7 +107,9 @@ https://developer.wordpress.org/<br><br>
 
 ## Screenshots:
 
-## Code:
+## Code for a PLUGIN:
+![alt text](Plugin_Code.png)
+
 
 ## Knowledge Assumed:
 - It's not just "one click and done"<br><br>
