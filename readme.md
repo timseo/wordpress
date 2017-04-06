@@ -49,18 +49,52 @@ Components of MAMP<br>
 - PHP: server-side scripting language<br><br>
 
 Set Up Steps<br>
-1. Install the latest version of Wordpress<br>
-2. Install MAMP on your Computer<br>
-3. LaunchMAMP from your Applications Folder<br>
-4. Set the Ports<br>
-5. Configure the Web Server and Document Root<br>
-6. Start your Servers<br>
-7. Create a MYSQL DB<br>
-8. Unzip the Wordpress Install<br>
-9. Configure the WP-Config.PHP File<br>
-10. The Famous Five Minute Install<br>
-11. Log Into the Wordpress Dashboard Panel<br>
-12. Use MAMP in the Future<br><br>
+1. Install the latest version of Wordpress
+    * Create Sites folder
+    * Create Wordpress folder - store WP zip file in this folder
+2. Install MAMP on your Computer
+3. LaunchMAMP from your Applications Folder
+    * Must be in your Apps folder
+    * Click on the MAMP folder
+    * Click on the MAMP icon
+    * Click Preferences
+4. Set the Ports
+    * Click Ports
+        * Use defaults
+5. Configure the Web Server and Document Root
+    * Click Web Server tab
+    * Make sure it's Apache
+    * Set root route by clicking gray folder icon
+        * Users -> Name -> sites -> Wordpress
+6. Start your Servers
+    * Click WebStart button
+7. Create a MYSQL DB
+    * Got to http://localhost:8888/phpMyAdmin
+    * Name your DB and click create
+8. Unzip the Wordpress Install
+    * Double click the zip file
+9. Configure the WP-Config.PHP File
+    * Open the wp-config-sample.php file in Atom
+    * Replaces db name with the db name you just created
+    * Replace password and username with 'root'
+    * Rename the file wp-config.php
+10. The Famous Five Minute Install
+    * Go to: localhost:8888/wordpressnew
+        * Or whatever the name of the folder is in your root folder
+        * Follow the prompts and click Install Wordpress
+11. Log Into the Wordpress Dashboard Panel
+    * Got to: http://localhost:8888/wordpressnew/wp-admin
+        * Or whatever the name of your folder is
+12. Use MAMP in the Future
+    * Turn on your MAMP server
+    * Visit the URL with the folder name: localhost:8888/wordpressnew
+    * To login add: /my-admin
+    * To create a new local WordPress site:
+        * Download latest version of WP and unpack the zip file in your sites folder
+        * Rename the folder to correlate with your site
+        * Set up new MySQL db in phpMyAdmin
+        * Configure the wp-config.php file to match new db name
+        * Go through 5 min. Install
 
 ## Official Documentation:
 
