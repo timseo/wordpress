@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Brian60657/wordpress/blob/master/2000px-WordPress_logo.svg.png)  
 
-## Is...
+## Is:
 
 - Free CMS (Content Management System)<br>
 
@@ -114,4 +114,3 @@ https://developer.wordpress.org/<br><br>
 
 ## Research:
 - Server side after MAMP installation<br><br>
-
